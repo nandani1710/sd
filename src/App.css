@@ -1,0 +1,26 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box ;
+}
+button{
+  margin-top: 10px;
+  margin-left: 5px;
+  /* color: white; */
+  background-color: #9F9EEE;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  border: 2px solid #8c8ade;
+
+}
+table{
+ } /* margin-top: 10px; */
+
+
+.info{
+  font-weight: bold;
+}
+.atktr{
+  background-color: #ffcccb;
+}
